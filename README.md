@@ -170,11 +170,4 @@ Smart Real-Estate Price Analytics demonstrates the use of Python for housing-dat
 
 The analysis is exploratory and is not a substitute for a professional property valuation. Historical patterns do not guarantee future prices.
 
-## 👨‍💻 Author
 
-**Vishal Dantre**
-
-- [GitHub Profile](https://github.com/vishal000123)
-- [Project Repository](https://github.com/vishal000123/Smart-Real-Estate-Price-Analytics)
-
-⭐ If you find this project useful, consider giving the repository a star.
